@@ -1,6 +1,6 @@
 {
   "name": "BFFLethalCompanyModpack",
-  "version_number": "1.4.0",
+  "version_number": "1.5.0",
   "website_url": "https://discord.com/invite/akamikeb",
   "description": "A modpack for the akamikeb community",
   "dependencies": [
@@ -16,6 +16,7 @@
     "Suskitech-AlwaysHearActiveWalkies-1.4.2",
     "x753-Mimics-1.1.1",
     "akamikeb-DarnellChristmasEdition-1.0.0",
-    "Verity-TooManySuits-1.0.3"
+    "Verity-TooManySuits-1.0.3",
+    "Sligili-More_Emotes-1.1.0"
   ]
 }
